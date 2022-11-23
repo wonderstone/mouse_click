@@ -1,3 +1,4 @@
+// for annoying online training courses that require you to click the mouse
 package main
 
 import (
